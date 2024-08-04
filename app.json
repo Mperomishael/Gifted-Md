@@ -1,9 +1,9 @@
 {
   "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "description": "Remoded Whatsapp MultiDevice Whatsapp Bot BY EMPIRE DIGITALS built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "logo": "NIL",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "success_url": "/",
   "stack": "heroku-24",
@@ -15,8 +15,8 @@
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
-      "required": false,
-      "value": "GIFTED TECH"
+      "required": true,
+      "value": "EMPIRE DIGITALS"
     },
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
@@ -26,7 +26,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Number",
       "required": false,
-      "value": "254110853827"
+      "value": "2348142656848"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -91,7 +91,7 @@
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
       "required": true,
-      "value": "heroku"
+      "value": "render"
     },
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",

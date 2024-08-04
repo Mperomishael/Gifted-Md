@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: Gifted-Md
+    name: Empire-Md
     env: docker
-    region: Frankfurt
+    region: Frankfort
     plan: free
     dockerfilePath: Dockerfile
 

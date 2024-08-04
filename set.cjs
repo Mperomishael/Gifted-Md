@@ -1,4 +1,4 @@
-// GIFTED TECH //
+// Empiredigits //
 const fs = require("fs");
 require("dotenv").config();
 
@@ -25,7 +25,7 @@ const config = {
   MODE: process.env.MODE || 'private',
   PREFIX: process.env.PREFIX || '.',
   PORT: process.env.PORT || "5000", /* Where App Will Listen On */
-  OWNER_NAME: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  OWNER_NAME: process.env.OWNER_NAME || "Mishael",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "254762016957",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };

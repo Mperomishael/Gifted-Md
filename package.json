@@ -1,7 +1,7 @@
 {
   "name": "gifted-md",
   "version": "5.0.0",
-  "description": "Gifted latest multi device whatsapp bot",
+  "description": "Empire remoded multi device whatsapp bot",
   "main": "./gifted/gifted.js",
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
@@ -11,7 +11,7 @@
     "restart": "pm2 restart gifted"
   },
   "keywords": ["gifted-md", "whatsapp-bot", "gifted-tech"],
-  "author": "Gifted Tech",
+  "author": "Empire Tech",
   "license": "GNU",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.5",
